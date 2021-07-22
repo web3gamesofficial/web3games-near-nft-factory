@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/henry/near/web3games-near-nftdrop/web3games-nft-factory/target/wasm32-unknown-unknown/release/build/typenum-636633aefb97703e/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/henry/near/web3games-near-nftdrop/web3games-nft-factory/target/wasm32-unknown-unknown/release/build/typenum-636633aefb97703e/out/op.rs

@@ -1,1 +1,0 @@
-/Users/henry/near/web3games-nft-factory/target/wasm32-unknown-unknown/release/libnft_factory.rlib: /Users/henry/near/web3games-nft-factory/res/nft.wasm /Users/henry/near/web3games-nft-factory/src/lib.rs
